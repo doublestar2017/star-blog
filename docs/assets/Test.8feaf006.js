@@ -1,0 +1,1 @@
+import{d as t,r as n,X as e,o,c as s,e as a,t as r}from"./vendor.b48202c8.js";var u=t({name:"Test",components:{},setup(){const t=n({count:2}),s=e(0);return o((()=>{t.count++})),{state:t,count1:s}}});u.render=function(t,n,e,o,u,c){return s(),a("div",null,r(t.state.count)+" 测试："+r(t.count1),1)};export default u;
