@@ -5,7 +5,7 @@
       src="https://riyugo.com/i/2021/05/17/ndw728.jpg"
       alt=""
     >
-    <div class="title">夜尽天明</div>
+    <div class="title">星星</div>
     <div class="right-content">
       <!-- <div class="item">
         <div class="num">123</div>粉丝
@@ -32,23 +32,23 @@
       </router-link>
     </div>
     <div class="introduce">
-      <div class="title">技术以内的 BB</div>
+      <!-- <div class="title">技术以内的 BB</div> -->
       <div class="content">
-        <img
+        <!-- <img
           style="width:100%;"
           src="../assets/BiaoChenXuYing.png"
-          alt="全栈修炼"
-        />
+          alt="star"
+        /> -->
       </div>
     </div>
     <div class="introduce">
-      <div class="title">开源项目的 BB</div>
+      <!-- <div class="title">开源项目的 BB</div> -->
       <div class="content">
-        <img
+        <!-- <img
           style="width:100%;"
           src="../assets/FrontEndGitHub.png"
           alt="前端GitHub"
-        />
+        /> -->
       </div>
     </div>
   </div>

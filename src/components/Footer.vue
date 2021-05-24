@@ -1,7 +1,7 @@
 
 <template>
   <div class="footer">
-    <div>全栈修炼 ©2018 Created by BiaoChenXuYing</div>
+    <div>星星的博客 ©2021 Created by star</div>
     <div class="number">
       <a href="http://www.beian.miit.gov.cn" target="_blank"
         >粤ICP备18141506号</a

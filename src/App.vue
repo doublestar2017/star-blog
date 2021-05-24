@@ -5,7 +5,7 @@
       <router-view />
       <CustomSlider v-if="state.isShowSlider"></CustomSlider>
     </div>
-    <ArrowUp></ArrowUp>
+    <!-- <ArrowUp></ArrowUp> -->
     <!-- <Footer v-if="isShowNav"></Footer> -->
   </div>
 </template>
