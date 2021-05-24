@@ -145,6 +145,7 @@ export default defineComponent({
       -webkit-animation: mylogo 3s; /* Safari and Chrome */
       -o-animation: mylogo 3s; /* Opera */
       animation-iteration-count: infinite;
+      box-shadow: #ffffff 0 0 8px;
     }
     .home-header {
       .link {
@@ -159,6 +160,7 @@ export default defineComponent({
           padding: 20px;
           color: #ffffff;
           min-width: 80px;
+          text-decoration: underline;
         }
         .link:hover {
           color: rgb(155, 35, 35);
@@ -179,21 +181,21 @@ export default defineComponent({
       }
       .introduce {
         position: fixed;
-        top: 50px;
-        right: 50px;
+        top: 80px;
+        right: 150px;
         width: 30px;
         color: #fff;
       }
       .introduce2 {
         position: fixed;
-        top: 170px;
-        right: 130px;
+        top: 140px;
+        right: 230px;
         width: 30px;
         color: #fff;
       }
     }
     .mark2 {
-      font-size: 50px;
+      font-size: 60px;
       opacity: 0;
       animation: showText 5s 4s linear forwards;
       animation-iteration-count: 1;
@@ -207,15 +209,15 @@ export default defineComponent({
       }
       .introduce {
         position: fixed;
-        top: 50px;
-        right: 50px;
+        top: 80px;
+        right: 150px;
         width: 30px;
         color: #fff;
       }
       .introduce2 {
         position: fixed;
-        top: 170px;
-        right: 130px;
+        top: 150px;
+        right: 230px;
         width: 30px;
         color: #fff;
       }
